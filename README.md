@@ -1,7 +1,9 @@
-### Hi there 👋
+### Ryan Monaghan
 
-- 🔭 I’m currently working on a virtual personal weather station with Go & Swift
-- 📫 How to reach me: Email me ryanmon731@gmail.com
-- ⚡ Fun fact: I have been programming since I was 8!
+I'm really into creating performant code, creating cool projects, and pusing the boudaries of what I can do as a developer. Ultimately, I;m just someone looking to create awesome software for awesome people.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmonaghanjr)](https://github.com/anuraghazra/github-readme-stats)
+Fun Facts About Me
+* I'm currently employed at Fairmount Automation working on a really cool project
+* I've been programming since I was 8 years old
+* My favorite language is either C or Go
+* I'm a CS for CS 382 at Stevens Institute of Technology
