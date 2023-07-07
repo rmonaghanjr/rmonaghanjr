@@ -5,5 +5,5 @@ I'm really into creating performant code, creating cool projects, and pusing the
 Fun Facts About Me
 * I'm currently employed at Fairmount Automation working on a really cool project
 * I've been programming since I was 8 years old
-* My favorite language is either C or Go
-* I'm a CS for CS 382 at Stevens Institute of Technology
+* My favorite language is either C or Rust
+* I'm a CA for CS 382 at Stevens Institute of Technology
